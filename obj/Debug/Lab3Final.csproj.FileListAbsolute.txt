@@ -1,0 +1,6 @@
+c:\users\perk\documents\visual studio 2015\Projects\Lab3Final\Lab3Final\bin\Debug\Lab3Final.exe.config
+c:\users\perk\documents\visual studio 2015\Projects\Lab3Final\Lab3Final\bin\Debug\Lab3Final.exe
+c:\users\perk\documents\visual studio 2015\Projects\Lab3Final\Lab3Final\bin\Debug\Lab3Final.pdb
+c:\users\perk\documents\visual studio 2015\Projects\Lab3Final\Lab3Final\obj\Debug\Lab3Final.csprojResolveAssemblyReference.cache
+c:\users\perk\documents\visual studio 2015\Projects\Lab3Final\Lab3Final\obj\Debug\Lab3Final.exe
+c:\users\perk\documents\visual studio 2015\Projects\Lab3Final\Lab3Final\obj\Debug\Lab3Final.pdb
